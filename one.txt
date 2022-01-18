@@ -1,3 +1,2 @@
-This is my first master commit
-This is my second (parallel) master commit
-This is a feature2 change
+This is my first master commit (changed in feature1)
+This is my second (parallel) master commitThis is a feature2 change
