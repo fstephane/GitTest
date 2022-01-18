@@ -1,1 +1,2 @@
 This is my first master commit
+This is my second (parallel) master commit
