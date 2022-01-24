@@ -1,2 +1,3 @@
 This is the first main commit
 This is the second main commit
+This is the second hotfix commit in the main file
